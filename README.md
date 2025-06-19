@@ -1,4 +1,4 @@
-# 👋 Hi, I'm jamie reed
+# 👋 Hi, I'm Jamie Reed
 
 Lover of DevOps, Docker, and all things CI/CD
 
